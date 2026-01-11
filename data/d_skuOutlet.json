@@ -1,0 +1,4547 @@
+{
+  "sheet": "d_skuOutlet",
+  "updated": "2026-01-12T03:26:58.465048",
+  "rows": 907,
+  "columns": [
+    "idpelanggan",
+    "sku",
+    "salesunit"
+  ],
+  "data": [
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "AJTF8Z",
+      "salesunit": 0.6599999999999999
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "AJTM",
+      "salesunit": 4.96
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "APC",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "APD",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "BIC7",
+      "salesunit": 16.97
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "BIC8K",
+      "salesunit": 28.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "BPC",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "BPG",
+      "salesunit": 3.97
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "BSC8",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "CSCC5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "CSCO5",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "CSP4HK",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "CSP4OK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "DACA5",
+      "salesunit": 37.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "DILAN5",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "DRIM5",
+      "salesunit": 23.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "DRINK5",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "ETG4",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "GA",
+      "salesunit": 1.3
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "GC2",
+      "salesunit": 5.87
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "GD3",
+      "salesunit": 5.97
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MACA2K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MACA8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MACC2K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MACC8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MACO2K",
+      "salesunit": 9.53
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MACO8",
+      "salesunit": 11.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MAJU2K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MAJU8",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MALS2K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MALS8",
+      "salesunit": 11.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MBON2K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MBON8",
+      "salesunit": 1.92
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "MCC8R",
+      "salesunit": 6.87
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "ORB8",
+      "salesunit": 31.58
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "ORBM",
+      "salesunit": 17.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "ORBS",
+      "salesunit": 12.17
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "ORP8",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGA2Z",
+      "salesunit": 11.85
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGC2Z",
+      "salesunit": 18.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGC7",
+      "salesunit": 2.6
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGG2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGM7D",
+      "salesunit": 1.6
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGM8W",
+      "salesunit": 29.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGR7",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGR8W",
+      "salesunit": 24.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGS2Z",
+      "salesunit": 23.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PGS7D",
+      "salesunit": 1.6
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PIJU5K",
+      "salesunit": 6.58
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "PILO5K",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "POCO2",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "POCO5",
+      "salesunit": 11.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "POTA2R",
+      "salesunit": 2.97
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "POTA5R",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "RICH5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "RING8",
+      "salesunit": 10.8
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "SANDO8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "SUC01A",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "SUC02A",
+      "salesunit": 4.97
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "TGC",
+      "salesunit": 3.9000000000000004
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "TGD",
+      "salesunit": 3.98
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "TGF8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WAFO8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WCC5L",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WCC8K",
+      "salesunit": 70.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WCG4A",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WCG8K",
+      "salesunit": 62.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WCV8K",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WECO4",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WJU5L",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-04-000000045",
+      "sku": "WJU8K",
+      "salesunit": 42.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "DACA5",
+      "salesunit": 90.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "DRIM5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "GD3",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "MAJU2K",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "MALS2K",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "MALS8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "PGA2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "PGC2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "PGG2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "PGM8W",
+      "salesunit": 16.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "PGS2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "POCO5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "POTA5R",
+      "salesunit": -3.0
+    },
+    {
+      "idpelanggan": "0077-11-000001878",
+      "sku": "WCG4A",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "AJTM",
+      "salesunit": 4.52
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "APC",
+      "salesunit": 4.95
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "APD",
+      "salesunit": 1.74
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "BARO5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "BIC7",
+      "salesunit": 29.869999999999997
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "BIC8K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "BPG",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "BRINK2",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "CSCO5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "CSP4HK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "CSP4OK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "DACA5",
+      "salesunit": 79.87
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "DBAG8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "DCIS5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "DILAN7",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "DRINK5",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "ETG4",
+      "salesunit": 24.9
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "EXCO5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "GA",
+      "salesunit": 2.8
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "GB",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "GD3",
+      "salesunit": -0.04
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "GOTA8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "KUKI8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MACA2K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MACA8",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MACC2K",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MACC8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MACO2K",
+      "salesunit": 19.93
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MACO8",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MAJU2K",
+      "salesunit": 24.97
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MAJU8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MALS2K",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MALS8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MAXB5",
+      "salesunit": -0.34
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MBON2K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MBON8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "MCP8S",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "ORB8",
+      "salesunit": 63.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "ORBM",
+      "salesunit": 33.8
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "ORBS",
+      "salesunit": 5.67
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "ORCM",
+      "salesunit": 4.33
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "ORJ5",
+      "salesunit": 2.49
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "ORPD",
+      "salesunit": 9.879999999999999
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "OTC8B",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PGA2Z",
+      "salesunit": 41.83
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PGC2Z",
+      "salesunit": 42.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PGFC8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PGG2Z",
+      "salesunit": 42.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PGM8W",
+      "salesunit": 7.27
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PGR7",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PGR8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PGS2Z",
+      "salesunit": 42.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PIJU5K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "PILO5K",
+      "salesunit": 9.92
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "POCJ2",
+      "salesunit": 5.84
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "POCO2",
+      "salesunit": -0.07
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "POCO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "RICH5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "SUC01A",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "SUC02A",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "TGD",
+      "salesunit": 2.5999999999999996
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "TMILK2",
+      "salesunit": 94.67
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "WAVE5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "WCC8K",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "WCG4A",
+      "salesunit": 125.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "WCG8K",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "WCV8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "WIN8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-08-000000652",
+      "sku": "WJU8K",
+      "salesunit": 19.62
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "BARO5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "BIC8K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "BPG",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "BSC8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "CREAM8",
+      "salesunit": -2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "CSCC5",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "CSCO5",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "CSP4HK",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "CSP4OK",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "DACA5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "DBAG8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "DCBCO5",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "DILAN5",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "DRINK5",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "ETG4",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "EXCO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "GOTA8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "KUKI8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MACA2K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MACA8",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MACC2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MACC8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MACO2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MACO8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MAJU2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MAJU8",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MALS2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MALS8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MAXB5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "MCC8R",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "ORB8",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "ORBM",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "ORCM",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "ORJM",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "ORP8",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "ORPD",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "OTC8B",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PGA2Z",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PGC2Z",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PGFC8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PGG2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PGMFZ1",
+      "salesunit": 64.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PGS2Z",
+      "salesunit": 24.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PIJU5K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PILO5K",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "POCO5",
+      "salesunit": 11.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "PONS5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "RICH5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "SUC01A",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "SUC02A",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WAFO8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WAVE5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WCC5L",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WCC8K",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WCG4A",
+      "salesunit": 85.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WCG8K",
+      "salesunit": 45.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WCV8K",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WECO4",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WIN8",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WJU5L",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-14-000002381",
+      "sku": "WJU8K",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "BIC7",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "BIC8K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "BON5",
+      "salesunit": -2.08
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "BSC8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "CSCC5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "CSCO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "CSP4HK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "CSP4OK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "DACA5",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "DCBCO5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "DILAN5",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "DRINK5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "ETG4",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "EXCO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "GOTA8",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "KUKI8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MACA2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MACA8",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MACC2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MACC8",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MACO2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MACO8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MAJU2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MAJU8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MALS2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MALS8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MAXB5",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MBON2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "MCC8R",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "ORB8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "ORBM",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "ORBS",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "ORJ5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "ORP8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "PGA2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "PGC2Z",
+      "salesunit": 18.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "PGG2Z",
+      "salesunit": 18.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "PGMFZ1",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "PGR8Z",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "PGS2Z",
+      "salesunit": 18.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "PIJU5K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "PILO5K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "POCO5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "POTA5R",
+      "salesunit": -3.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "RICH5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "SANCI8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "SANDO8",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "SUC01A",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "SUC02A",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WAFO8",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WAVE5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WCC5L",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WCC8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WCG4A",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WCG8K",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WCV8K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WECO4",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WJU5L",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0078-15-000002622",
+      "sku": "WJU8K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "AJTF8Z",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "BARO5",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "BIC8K",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "BPG",
+      "salesunit": 27.75
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "BSC8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "CREAM8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "CSCC5",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "CSCO5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "CSP4HK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "CSP4OK",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "DBAG8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "DCBCO5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "DILAN5",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "DRIM5",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "DRINK5",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "ETG4",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "GOTA8",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "KUKI8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MACA8",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MACC2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MACC8",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MACO2K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MACO8",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MAJU8",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MALS2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MALS8",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MBON8",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "MCC8R",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "ORB8",
+      "salesunit": 29.5
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "ORBM",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "ORBS",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "ORJ5",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "ORJM",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "ORPD",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "OTC8B",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PGA2Z",
+      "salesunit": 36.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PGC2Z",
+      "salesunit": 72.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PGFC8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PGG2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PGM8W",
+      "salesunit": 184.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PGR8Z",
+      "salesunit": 16.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PGS2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PIJU5K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "PILO5K",
+      "salesunit": 9.92
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "POCO5",
+      "salesunit": 70.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "RICH5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "RING8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "SANDO8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "SUC01A",
+      "salesunit": 80.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "SUC02A",
+      "salesunit": 46.25
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WAVE5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WCC5L",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WCC8K",
+      "salesunit": 45.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WCG4A",
+      "salesunit": 180.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WCG8K",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WCV8K",
+      "salesunit": 44.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WECO4",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WIN8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WJU5L",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0083-05-000004143",
+      "sku": "WJU8K",
+      "salesunit": 105.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "AJTF8Z",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "AJTSZ",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "BARO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "BIC8K",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "BPG",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "BSC8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "BTG5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "CSCC5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "CSCO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "CSP4OK",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "DBAG8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "DCBCO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "DCIS5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "DILAN5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "DRIM5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "DRINK5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "DTOP8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "ETG4",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "EXCO5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "GF8Z",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "GOTA8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "KUKI8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "MACA8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "MACC8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "MACO8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "MAJU8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "MALS8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "MBON8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "MCC8R",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "ORB8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "ORBS",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "ORP8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "OTC8B",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "PGA2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "PGC2Z",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "PGFC8W",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "PGG2Z",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "PGM8W",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "PGS2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "PIJU5K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "PILO5K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "POCO5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "POTA5R",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "RICH5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "RING8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "SANDO8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "SUC01A",
+      "salesunit": 60.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "SUC02A",
+      "salesunit": 45.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WAFO8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WAVE5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WCG4A",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WCG8K",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WCV8K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WECO4",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WIN8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WJU5L",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0085-17-000002568",
+      "sku": "WJU8K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "AJTF8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "AJTSZ",
+      "salesunit": 16.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "BARO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "BIC8K",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "BPG",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "BTG5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "CSCO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "CSP4HK",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "CSP4OK",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "DACA5",
+      "salesunit": 130.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "DCBCO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "DCIS5",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "DILAN5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "DRIM5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "DRINK5",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ETG4",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "EXCO5",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "GOTA8",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "KUKI8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "MACA8",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "MACC8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "MACO2K",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "MACO8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "MAJU8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "MALS8",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "MBON8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ORB8",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ORBM",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ORBS",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ORCM",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ORJ5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ORJM",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ORP8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "ORPD",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PGA2Z",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PGC2Z",
+      "salesunit": 18.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PGFC8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PGG2Z",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PGM7D",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PGM8W",
+      "salesunit": 168.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PIJU5K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PILO5K",
+      "salesunit": 70.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "POCO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "PONS5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "POTA5R",
+      "salesunit": -4.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "RING8",
+      "salesunit": -10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "SANCI8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "SANDO8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "TGF8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WAFO8",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WAVE5",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WCC5L",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WCC8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WCG4A",
+      "salesunit": 200.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WCG8K",
+      "salesunit": 11.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WCV8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WECO4",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WIN8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WJU5L",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0088-05-0000096",
+      "sku": "WJU8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "AJTM",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "APD",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "BARO5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "BIC7",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "BIC8K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "BPG",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "BTG5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "CSCC5",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "CSCO5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "CSP4HK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "CSP4OK",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "DACA5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "DBAG8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "DCBCO5",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "DILAN5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "DRIM5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "DRINK5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "DTOP8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "ETG4",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "EXCO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "GD3",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "GOTA8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "KUKI8",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MACA2K",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MACA8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MACC2K",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MACC8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MACO2K",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MACO8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MAJU2K",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MAJU8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MALS2K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MALS8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MAXB5",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MBON2K",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "MBON8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "ORBM",
+      "salesunit": 1.33
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "ORBS",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "ORCM",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "ORJ5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "ORJM",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "ORPD",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "OTC8B",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "OTC8T",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGC2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGC7",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGFC8Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGM7D",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGM8W",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGR7",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGR8W",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGS2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PGS7D",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PIJU5K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PILO5K",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PILO7",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "POCJ2",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "POCO2",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "POCO5",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PONS2",
+      "salesunit": 1.27
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "PONS5",
+      "salesunit": 3.83
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "POTA2R",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "POTA5R",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "RICH5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "RING8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "SANCI8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "SANDO8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "SUC02A",
+      "salesunit": 110.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "TGD",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "TGF8",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WAFO8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WAVE5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WCC5L",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WCC8K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WCG4A",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WCG8K",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WCV8K",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WIN8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WJU5L",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0091-11-000000178",
+      "sku": "WJU8K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "AJTM",
+      "salesunit": -0.48
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "APD",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "BARO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "BIC7",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "BIC8K",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "BPG",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "BRINK2",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "BSC8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "BTG5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "CREAM8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "CSCC5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "CSCO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "CSP4HK",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "CSP4OK",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "DACA5",
+      "salesunit": 14.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "DBAG8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "DCBCO5",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "DCIS5",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "DILAN5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "DRIM5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "DRINK5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ETG4",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "EXCO5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "GOTA8",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "KUKI8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MACA2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MACA8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MACC2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MACC8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MACO2K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MACO8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MAJU2K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MAJU8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MALS2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MALS8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MAXB5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MBON2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MBON8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "MCC8R",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ORB8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ORBM",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ORBS",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ORCM",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ORJ5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ORJM",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ORP8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "ORPD",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "OTC8B",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PGA2Z",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PGC2Z",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PGFC8Z",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PGG2Z",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PGM7D",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PGM8W",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PGR8Z",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PGS2Z",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PIJU5K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PILO5K",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "POCO5",
+      "salesunit": 11.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "PONS5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "POTA5R",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "RICH5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "SANCI8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "SANDO8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "SUC01A",
+      "salesunit": 80.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "SUC02A",
+      "salesunit": 70.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "TMILK2",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "TRINK2",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WAFO8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WAVE5",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WCC5L",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WCC8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WCG4A",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WCG8K",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WCV8K",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WECO4",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WIN8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WJU5L",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0092-10-000000860",
+      "sku": "WJU8K",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "AJTM",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "APD",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "BIC7",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "BIC8K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "BPC",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "BPG",
+      "salesunit": 57.5
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "BRINK2",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "BSC8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "BTG5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "CSP4HK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "CSP4OK",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "DRIM5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "DRINK5",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "ETG4",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "EXCO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "GC2",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "GD3",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MACA2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MACA8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MACC2K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MACC8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MACO2K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MACO8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MAJU2K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MAJU8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MALS2K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MALS8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MBON2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MBON8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "MCC8R",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "ORB8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "ORBM",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "ORCM",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "ORJM",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "ORPD",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "PGA2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "PGC2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "PGG2Z",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "PGS2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "PILO5K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "POCO2",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "RING8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "SUC01A",
+      "salesunit": 70.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "SUC02A",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "WCC5L",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "WCC8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "WCG4A",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "WCG8K",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0136-16-000000909",
+      "sku": "WECO4",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "AJTF8Z",
+      "salesunit": 16.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "AJTSZ",
+      "salesunit": 16.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "BARO5",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "BIC8K",
+      "salesunit": 90.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "BON5",
+      "salesunit": -2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "BPG",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "BSC8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "BTG5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "CREAM8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "CSP4HK",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "CSP4OK",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "DACA5",
+      "salesunit": 135.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "DCBCO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "DCIS5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "DILAN5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "DRIM5",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "DRINK5",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ETG4",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "EXCO5",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "GOTA8",
+      "salesunit": 60.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "KUKI8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MACA2K",
+      "salesunit": 1.97
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MACA8",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MACC2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MACC8",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MACO2K",
+      "salesunit": 3.73
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MACO8",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MAJU2K",
+      "salesunit": 3.9699999999999998
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MAJU8",
+      "salesunit": 60.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MALS2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MALS8",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MBON2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MBON8",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "MCC8R",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ORB8",
+      "salesunit": -1.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ORBM",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ORBS",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ORCM",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ORJ5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ORJM",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ORP8",
+      "salesunit": -1.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "ORPD",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "OTC8B",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PGA2Z",
+      "salesunit": 24.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PGC2Z",
+      "salesunit": 42.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PGFC8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PGG2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PGM8W",
+      "salesunit": 264.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PGR8W",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PGS2Z",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PIJU5K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "PILO5K",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "POCO5",
+      "salesunit": 70.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "POTA5R",
+      "salesunit": 0.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "RICH5",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "RING8",
+      "salesunit": 9.33
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "SANCI8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "SANDO8",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "SUC01A",
+      "salesunit": 70.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "SUC02A",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WAFO8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WAVE5",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WCC5L",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WCC8K",
+      "salesunit": 41.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WCG4A",
+      "salesunit": 99.92
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WCG8K",
+      "salesunit": 60.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WCV8K",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WECO4",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WIN8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WJU5L",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0166-16-000001221",
+      "sku": "WJU8K",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "AJTSZ",
+      "salesunit": 32.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "BARO5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "BIC8K",
+      "salesunit": 99.72
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "BPG",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "BSC8",
+      "salesunit": 16.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "BTG5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "CREAM8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "CSCC5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "CSCO5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "CSP4HK",
+      "salesunit": 16.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "CSP4OK",
+      "salesunit": 18.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "DACA5",
+      "salesunit": 68.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "DCBCO5",
+      "salesunit": 27.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "DCIS5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "DILAN5",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "DIVA5",
+      "salesunit": -0.13
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "DRIM5",
+      "salesunit": 11.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "DRINK5",
+      "salesunit": 19.86
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "DTOP8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "ETG4",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "EXCO5",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "GOTA8",
+      "salesunit": 70.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "KUKI8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MACA2K",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MACA8",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MACC2K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MACC8",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MACO2K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MACO8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MAJU2K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MAJU8",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MALS2K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MALS8",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MAXB5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MBON2K",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "MCC8R",
+      "salesunit": 19.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "ORB8",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "ORBS",
+      "salesunit": 10.17
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "ORJ5",
+      "salesunit": 3.83
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "ORP8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "OTC8B",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "PGA2Z",
+      "salesunit": 18.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "PGC2Z",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "PGM8W",
+      "salesunit": 432.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "PGR8W",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "PIJU5K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "PILO5K",
+      "salesunit": 21.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "POCO5",
+      "salesunit": 80.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "PONS5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "POTA5R",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "RICH5",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "RING8",
+      "salesunit": -0.67
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "SANCI8",
+      "salesunit": 4.62
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "SANDO8",
+      "salesunit": 30.869999999999997
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "SUC01A",
+      "salesunit": 16.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "SUC02A",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "WAFO8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "WAVE5",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "WCG4A",
+      "salesunit": 150.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "WCG8K",
+      "salesunit": 65.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "WCV8K",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "WECO4",
+      "salesunit": 50.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "WIN8",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0166-16-000001222",
+      "sku": "WJU8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "AJTSZ",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "BARO5",
+      "salesunit": 7.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "BIC8K",
+      "salesunit": 75.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "BSC8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "CSP4HK",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "CSP4OK",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "DCBCO5",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "DILAN5",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "DTOP8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "EXCO5",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "KUKI8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MACA8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MACC2K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MACC8",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MACO8",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MAJU2K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MAJU8",
+      "salesunit": 65.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MALS2K",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MALS8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "MCC8R",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "ORB8",
+      "salesunit": 110.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "ORBS",
+      "salesunit": 47.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "ORP8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "PGFC8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "PGM8W",
+      "salesunit": 74.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "PGR8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "PIJU5K",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "PILO5K",
+      "salesunit": 45.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "POCO5",
+      "salesunit": 63.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "POTA5R",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "RICH5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "RING8",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "SANCI8",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "SANDO8",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WAFO8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WAVE5",
+      "salesunit": 26.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WCC8K",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WCG4A",
+      "salesunit": 170.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WCG8K",
+      "salesunit": 41.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WCV8K",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WECO4",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WIN8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "0166-17-000002232",
+      "sku": "WJU8K",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "AJTF8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "AJTM",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "AJTSZ",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "APD",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "BARO5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "BIC7",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "BIC8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "BPG",
+      "salesunit": 40.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "CSCC5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "CSCO5",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "CSP4HK",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "CSP4OK",
+      "salesunit": 4.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "DBAG8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "DCIS5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "DILAN5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "EXCO5",
+      "salesunit": 23.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "KUKI8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MACA2K",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MACA8",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MACC2K",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MACC8",
+      "salesunit": 11.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MACO2K",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MACO8",
+      "salesunit": 9.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MAJU2K",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MAJU8",
+      "salesunit": 13.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MALS2K",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MALS8",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MBON2K",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "MBON8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "ORB8",
+      "salesunit": 20.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "ORBM",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "ORBS",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "ORCM",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "ORJ5",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "ORJM",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "ORP8",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "ORPD",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "OTC8B",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PGA2Z",
+      "salesunit": 18.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PGC2Z",
+      "salesunit": 42.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PGC7",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PGG2Z",
+      "salesunit": 41.5
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PGM7D",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PGM8W",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PGR8Z",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PGS2Z",
+      "salesunit": 12.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PIJU5K",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PILO5K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "POCO2",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "POCO5",
+      "salesunit": 35.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PONS2",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "PONS5",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "POTA2R",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "POTA5R",
+      "salesunit": 8.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "RICH5",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "RING8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "SANCI8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "SANDO8",
+      "salesunit": 3.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "TGD",
+      "salesunit": 1.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "TGF8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WAFO8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WAVE5",
+      "salesunit": 5.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WCC5L",
+      "salesunit": 6.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WCC8K",
+      "salesunit": 15.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WCG4A",
+      "salesunit": 100.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WCG8K",
+      "salesunit": 25.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WCV8K",
+      "salesunit": 10.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WECO4",
+      "salesunit": 30.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WIN8",
+      "salesunit": 2.0
+    },
+    {
+      "idpelanggan": "080402-05-0000816",
+      "sku": "WJU5L",
+      "salesunit": 4.0
+    }
+  ]
+}

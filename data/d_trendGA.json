@@ -1,0 +1,72 @@
+{
+  "sheet": "d_trendGA",
+  "updated": "2026-01-12T03:26:58.402192",
+  "rows": 12,
+  "columns": [
+    "month_name",
+    "LY",
+    "TY"
+  ],
+  "data": [
+    {
+      "month_name": "Jan",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Feb",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Mar",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Apr",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "May",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Jun",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Jul",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Aug",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Sep",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Oct",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Nov",
+      "LY": "0x17",
+      "TY": "0x17"
+    },
+    {
+      "month_name": "Dec",
+      "LY": "0x17",
+      "TY": "0x17"
+    }
+  ]
+}

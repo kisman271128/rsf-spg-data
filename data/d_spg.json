@@ -1,0 +1,151 @@
+{
+  "sheet": "d_spg",
+  "updated": "2026-01-12T03:26:58.409068",
+  "rows": 15,
+  "columns": [
+    "region",
+    "depo",
+    "name",
+    "email",
+    "phone",
+    "role",
+    "status"
+  ],
+  "data": [
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Balikpapan",
+      "name": "Fadzakir Sir Ziqro",
+      "email": "fadzakir@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Balikpapan",
+      "name": "Muchamad Ibrahim Anwar",
+      "email": "ibrahim@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Banjarmasin",
+      "name": "Noer Lathifah",
+      "email": "lathifah@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Banjarmasin",
+      "name": "Rezkina Amalia",
+      "email": "rezkina@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Banjarmasin",
+      "name": "Maulidya Nur Hafifah",
+      "email": "maulidya@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Barabai",
+      "name": "Raudatun Nisa",
+      "email": "nisa@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Batulicin",
+      "name": "Siti Mutmainah",
+      "email": "siti@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Grogot",
+      "name": "Muhammad Picky Alpian",
+      "email": "picky@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Palangkaraya",
+      "name": "Nurul Febriana",
+      "email": "nurul@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Pangkalanbun",
+      "name": "Sunja Aulia Saeputri",
+      "email": "aulia@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Samarinda",
+      "name": "Kartika",
+      "email": "kartika@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Samarinda",
+      "name": "Wahyu Saputra",
+      "email": "wahyu@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Sampit",
+      "name": "Linda Aprilia Andini",
+      "email": "linda@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Sangatta",
+      "name": "Ika Purnamasari",
+      "email": "ika@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    },
+    {
+      "region": "Kalimantan",
+      "depo": "Depo Tanjung",
+      "name": "Rahmawati",
+      "email": "rahmawati@rsfspg.com",
+      "phone": 0,
+      "role": "spg",
+      "status": "active"
+    }
+  ]
+}
