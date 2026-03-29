@@ -1,6 +1,6 @@
 {
   "sheet": "d_sellinGbs",
-  "updated": "2026-03-27T15:44:26.124832",
+  "updated": "2026-03-30T07:05:07.992575",
   "rows": 24,
   "columns": [
     "storeId",
@@ -71,8 +71,8 @@
       "LM1": 1520,
       "LM": 1805.0,
       "Target": 2556,
-      "MTD": 0,
-      "Ach": 0.0,
+      "MTD": 1850,
+      "Ach": 0.7237871674491393,
       "storeNm": "H. ANANG ALI (TS)"
     },
     {
@@ -107,8 +107,8 @@
       "LM1": 3500,
       "LM": 1750.0,
       "Target": 3500,
-      "MTD": 0,
-      "Ach": 0.0,
+      "MTD": 2350,
+      "Ach": 0.6714285714285714,
       "storeNm": "CV. BUKAT BINTANG"
     },
     {
@@ -167,8 +167,8 @@
       "LM1": 5,
       "LM": 500.0,
       "Target": 2150,
-      "MTD": 0,
-      "Ach": 0.0,
+      "MTD": 1760,
+      "Ach": 0.8186046511627907,
       "storeNm": "SASMITA RIADY"
     },
     {
@@ -215,8 +215,8 @@
       "LM1": 500,
       "LM": 0.0,
       "Target": 1425,
-      "MTD": 0,
-      "Ach": 0.0,
+      "MTD": 1301,
+      "Ach": 0.9129824561403509,
       "storeNm": null
     },
     {
@@ -227,8 +227,8 @@
       "LM1": 1015,
       "LM": 865.0,
       "Target": 1346,
-      "MTD": 706,
-      "Ach": 0.524517087667162,
+      "MTD": 1216,
+      "Ach": 0.9034175334323923,
       "storeNm": "FITRIANI / NORHASAN, TOKO"
     },
     {
