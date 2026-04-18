@@ -11,7 +11,7 @@ echo ========================================
 echo.
 
 REM Navigate to repository
-cd /d C:\rsf-spg-app\rsf-spg-data
+cd /d D:\rsf-spg-app\rsf-spg-data
 
 REM Check Python (install if needed)
 python --version >nul 2>&1
@@ -42,15 +42,21 @@ echo.
 echo [2/3] Adding to Git...
 git add data/*.json
 
+REM Always add images - Git hanya commit file yang berubah atau baru
+REM File yang tidak berubah tidak akan ikut ter-commit
+git add images/
+echo  Images folder checked...
+
 echo.
 echo [3/3] Pushing to GitHub...
 git commit -m "Auto-update from DSourceSPGApp.xlsb - %date% %time:~0,5%"
+git pull origin main --no-edit
 git push origin main
 
 if %ERRORLEVEL% EQU 0 (
     echo.
     echo ========================================
-    echo  ✅ SUCCESS! Data uploaded to GitHub
+    echo  SUCCESS! Data uploaded to GitHub
     echo ========================================
     echo.
 ) else (

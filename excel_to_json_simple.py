@@ -12,8 +12,8 @@ import os
 from datetime import datetime
 
 # HARD-CODED PATHS
-EXCEL_FILE = r"C:\rsf-spg-app\rsf-spg-data\DSourceSPGApp.xlsb"
-OUTPUT_DIR = r"C:\rsf-spg-app\rsf-spg-data\data"
+EXCEL_FILE = r"D:\rsf-spg-app\rsf-spg-data\DSourceSPGApp.xlsb"
+OUTPUT_DIR = r"D:\rsf-spg-app\rsf-spg-data\data"
 
 def main():
     print("=" * 60)
