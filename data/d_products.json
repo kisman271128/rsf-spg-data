@@ -1,7 +1,7 @@
 {
   "sheet": "d_products",
-  "updated": "2026-04-20T12:39:17.913002",
-  "rows": 174,
+  "updated": "2026-04-20T12:45:50.551949",
+  "rows": 175,
   "columns": [
     "id",
     "szNickName",
@@ -3502,6 +3502,26 @@
       "szCat8Description": "AP",
       "szCompUomDesc": "1 x 60 pcs (dus)",
       "szCompUomId": "Dus60/Rtg10/Pcs"
+    },
+    {
+      "id": 90101321112100,
+      "szNickName": "DBBCO5",
+      "displayName": null,
+      "LOB": "GEN",
+      "Pcs": 120,
+      "minDz": 0,
+      "harga": 198000.00000000183,
+      "skuFokus": false,
+      "skupareto": false,
+      "imageUrl": "./images/DBBCO5.webp",
+      "szCat3Description": "CONFECTIONERY",
+      "szCat4Description": "CHOCOLATE",
+      "szCat5Description": "DRAGEE",
+      "szCat6Description": "DRAGEE",
+      "szCat7Description": "DILAN",
+      "szCat8Description": "AP",
+      "szCompUomDesc": "12bagx10pcsRtg10(dus)",
+      "szCompUomId": "Dus120/Bag10/Pcs"
     }
   ]
 }
